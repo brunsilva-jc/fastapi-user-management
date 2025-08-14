@@ -258,7 +258,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📮 Contact
 
-Your Name - [@brunsilva-jc]
+Bruno Silva
+Email: brunsilva-jc@gmail.com
 
 Project Link: [https://github.com/brunsilva-jc/fastapi-user-management](https://github.com/brunsilva-jc/fastapi-user-management)
 
