@@ -30,7 +30,7 @@ A modern, production-ready FastAPI service for user management with PostgreSQL d
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/fastapi-user-management.git
+git clone https://github.com/brunsilva-jc/fastapi-user-management.git
 cd fastapi-user-management
 ```
 
