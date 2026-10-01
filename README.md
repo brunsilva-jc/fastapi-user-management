@@ -6,7 +6,7 @@
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-D71F00.svg?style=flat)](https://www.sqlalchemy.org)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A modern, production-ready FastAPI service for user management with PostgreSQL database integration. This service demonstrates best practices for building RESTful APIs with FastAPI, including database ORM, environment configuration, and containerization.
+A FastAPI service for user management with PostgreSQL database integration. This service demonstrates best practices for building RESTful APIs with FastAPI, including database ORM, environment configuration, and containerization.
 
 ## 🚀 Features
 
